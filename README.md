@@ -5,4 +5,7 @@ Resultado do curso **[Desenvolvedor Kotlin Iniciante](https://www.udemy.com/dese
 ## Projetos
 
 - [learning](../../tree/master/learning): Exemplos e exercícios básicos.
+
 - [kotlinpost](../../tree/master/kotlinpost): Cliente REST c/ Java Swing.
+
+  ![screenshot-kotlinpost](../../raw/master/kotlinpost/kotlinpost.png)
