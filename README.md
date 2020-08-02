@@ -1,4 +1,4 @@
-# course-udemy-kotlin_i
+# course-udemy-kotlin (i)
 
 Resultado do curso **[Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante)** da [Udemy](https://www.udemy.com/).
 
